@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+
+.navbar{
+    height:fit-content;
+}
+.navbar-brand{
+   font-size: 30px;
+}
+#submit{
+    border-radius: 15px;
+    font-size: 20px;
+}
+#submit:hover{
+    transform: scale(1.05);
+}
+.btn:hover{
+    transform: scale(1.05);
+
+}
+.carrs{
+    border-radius:20px;
+}
+.carrs:hover{
+    transform: scale(1.15);
+    
+    background-color:#EDBE02;
+
+}
